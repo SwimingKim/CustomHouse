@@ -1,0 +1,92 @@
+{
+    "house": {
+        "BlueHouse": {
+            "name": "파란 집",
+            "maxlevel": 3,
+            "tapValue": 11,
+            "price": 1200
+        },
+        "BrownHouse": {
+            "name": "갈색 집",
+            "maxlevel": 5,
+            "tapValue": 16,
+            "price": 1900
+        },
+        "PurpleHouse": {
+            "name": "보라색 집",
+            "maxlevel": 8,
+            "tapValue": 20,
+            "price": 2100
+        },
+        "RedHouse": {
+            "name": "빨간 집",
+            "maxlevel": 11,
+            "tapValue": 29,
+            "price": 3500
+        }
+    },
+    "character": {
+        "Character1": "키다리",
+        "Character2": "브릿지",
+        "Character3": "요리사",
+        "Character4": "경찰",
+        "Character5": "헤드폰소녀",
+        "Character6": "주황머리",
+        "Character7": "금발머리",
+        "Character8": "회사원",
+        "Character9": "단발머리",
+        "Character10": "뽀글이"
+    },
+    "other": {
+        "Bench": {
+            "name": "Bench",
+            "secondValue": 9,
+            "price": 1300
+        },
+        "Bus": {
+            "name": "Bus",
+            "secondValue": 11,
+            "price": 1800
+        },
+        "BusStop": {
+            "name": "BusStop",
+            "secondValue": 13,
+            "price": 2100
+        },
+        "Cab": {
+            "name": "Cab",
+            "secondValue": 16,
+            "price": 2700
+        },
+        "Fourtain": {
+            "name": "Fourtain",
+            "secondValue": 19,
+            "price": 3200
+        },
+        "Hydrant": {
+            "name": "Hydrant",
+            "secondValue": 23,
+            "price": 3800
+        },
+        "Statue": {
+            "name": "Statue",
+            "secondValue": 26,
+            "price": 4200
+        },
+        "Tree": {
+            "name": "Tree",
+            "secondValue": 31,
+            "price": 4600
+        },
+        "Trellis": {
+            "name": "Trellis",
+            "secondValue": 33,
+            "price": 5200
+        },
+        "Wagon": {
+            "name": "Wagon",
+            "secondValue": 38,
+            "price": 5600
+        }
+    }
+}

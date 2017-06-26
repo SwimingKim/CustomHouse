@@ -1,0 +1,28 @@
+{
+    "house": {
+        "BlueHouse": {
+            "name": "파란 집",
+            "maxlevel": 3,
+            "tapValue": 11,
+            "price": 1200
+        },
+        "RedHouse": {
+            "name": "빨간 집",
+            "maxlevel": 8,
+            "tapValue": 29,
+            "price": 3500
+        },
+        "PurpleHouse": {
+            "name": "보라색 집",
+            "maxlevel": 11,
+            "tapValue": 20,
+            "price": 2100
+        },
+        "BrownHouse": {
+            "name": "갈색 집",
+            "maxlevel": 1000,
+            "tapValue": 16,
+            "price": 1900
+        }
+    }
+}

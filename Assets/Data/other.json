@@ -1,0 +1,54 @@
+{
+    "other": {
+        "Hydrant": {
+            "name": "소화전",
+            "secondValue": 23,
+            "price": 3800
+        },
+        "Bench": {
+            "name": "벤치",
+            "secondValue": 9,
+            "price": 1300
+        },
+        "Tree": {
+            "name": "나무",
+            "secondValue": 31,
+            "price": 4600
+        },
+        "Trellis": {
+            "name": "구조물",
+            "secondValue": 33,
+            "price": 5200
+        },
+        "Fourtain": {
+            "name": "분수",
+            "secondValue": 19,
+            "price": 3200
+        },
+        "Statue": {
+            "name": "동상",
+            "secondValue": 26,
+            "price": 4200
+        },
+        "Cab": {
+            "name": "택시",
+            "secondValue": 16,
+            "price": 2700
+        },
+        "Wagon": {
+            "name": "자동차",
+            "secondValue": 38,
+            "price": 5600
+        },
+        "BusStop": {
+            "name": "버스정류장",
+            "secondValue": 13,
+            "price": 2100
+        },
+        "Bus": {
+            "name": "버스",
+            "secondValue": 11,
+            "price": 1800
+        }
+    }
+}
