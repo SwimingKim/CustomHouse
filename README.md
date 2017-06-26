@@ -8,6 +8,6 @@
 ![스크린 이미지](Screen.png)
 
 - 동영상   
-![동영상](3DPortfolio.mp4)
+[![동영상](https://img.youtube.com/watch?v=a17l2FC0fuQ)](https://www.youtube.com/watch?v=a17l2FC0fuQ)
 
 
