@@ -1,4 +1,4 @@
-# CustomHouse
+# My House
 
 - 나만의 집, 캐릭터, 아이템을 갖춰나가는 3D 클리커 게임
 
